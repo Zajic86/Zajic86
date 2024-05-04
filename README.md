@@ -1,8 +1,6 @@
-<center>
-<img src="https://www.martinlukasek.cz/imgs/zajic-logo-400x461.png" width="200">
 Hi, I'm Martin, an enthusiastic explorer of the digital world.<br>
-I’m interested in Python, Arduino projects, web developing and cyber security
-</center>
+I’m interested in Python, Arduino projects, web developing and cyber security<br>
+
 
 
 <!---
