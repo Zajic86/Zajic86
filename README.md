@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @Zajic86
-- 👀 I’m interested in Python and Arduino projects
+<center>
+<img src="https://www.martinlukasek.cz/imgs/zajic-logo-400x461.png" width="400">
+Hi, I'm Martin, an enthusiastic explorer of the digital world.
+I’m interested in Python, Arduino projects, web developing and cyber security
+</center>
 
 
 <!---
